@@ -4,7 +4,7 @@ This project uses demographic, transaction and offer data to find demographic gr
 ## Installations
 - Put the files in the data directory into a folder of your choice  
 - Install following python libraries:  
-    - pandas, numpy, matplotlib, sqlalchemy, pickle,sklearn, plotly 
+    - pandas, numpy, matplotlib, pickle,sklearn, plotly 
   
 `pip install numpy`  
 `pip install pandas`  
