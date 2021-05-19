@@ -1,32 +1,30 @@
 Project 6 of the Data Scientist Nanodegree Program - Starbucks Capstone Challenge
-This project loads data about disaster messages, displays visual on a web page and estimates the category of the message, which will also displayed on a web page.
+This project uses demographic, transaction and offer data to find demographic groups which respond best to certain offer types.
 
 Installations
-Put the files in this repo into a folder of your choice
+Put the files in the data directory into a folder of your choice
 Install following python libraries:
-pandas, numpy, matplotlib, nltk, sqlalchemy, pickle,sklearn, flask, plotly
+pandas, numpy, matplotlib, nltk, sqlalchemy, pickle,sklearn, plotly
 pip install numpy
 pip install pandas
 pip install matplotlib
 pip install nltk
 pip install sqlalchemy
 pip install pickle
-pip install sklearn
-pip install flask
 pip install plotly
 
 Project Motivation
-In the course of the Data Scientist Nanodegree Prgram this analysis was done to classify messages from disasters
-Messages, which were already classified are used to train models to classify new messages
-Models have been tuned for better performance
-File Descriptions
-data/disaster_categories.csv
+In this last project of the Data Scientist Nanodegree Program these data sets were used to determine which demographic groups respond best to which offer types.
 
-Categories of different disasters
-data/disaster_messages.csv
+File Description
+Data about offers and requirements to complete offers
+data/portfolio.json
 
-Messages of different disasters
-data/process_data.py
+Demographic data
+data/profile.json
+
+Information about descriptions of offers and transaction data 
+data/transcript.json
 
 Loads and cleans data
 Merges both csv-files
