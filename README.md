@@ -2,7 +2,10 @@
 This project uses demographic, transaction and offer data to find demographic groups which respond best to certain offer types.
 
 ## Installations
-- Put the files in the data directory into a folder of your choice  
+- Download .rar-file from data directory
+- Create a directory "data"
+- Unzip JSON-files into your "data" directory
+- Download the jupyter notebook and put it in the directory where your "data" folder is 
 - Install following python libraries:  
     - pandas, numpy, matplotlib, pickle,sklearn, plotly , seaborn
   
