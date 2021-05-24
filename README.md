@@ -20,6 +20,7 @@ This project uses demographic, transaction and offer data to find demographic gr
 
 ## Project Motivation
 - In this last project of the Data Scientist Nanodegree Program these data sets were used to determine which demographic groups respond best to which offer types.
+- You can see the article here: https://eren-altun.medium.com/my-starbucks-capstone-challenge-c3af67a3d8b3
 
 ## File Description  
 - data/portfolio.json  
