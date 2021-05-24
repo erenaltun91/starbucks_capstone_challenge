@@ -58,3 +58,4 @@ LinkedIn: https://www.linkedin.com/in/eren-altun91/
 - https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8  
 - https://knowledge.udacity.com/questions/587418  
 - https://www.kite.com/python/answers/how-to-set-the-spacing-between-subplots-in-matplotlib-in-python  
+- https://datavizpyr.com/how-to-manually-order-boxplot-in-seaborn/
