@@ -1,5 +1,6 @@
 # Project 6 of the Data Scientist Nanodegree Program - Starbucks Capstone Challenge
 This project uses demographic, transaction and offer data to find demographic groups which respond best to certain offer types.
+I also tried to build a model to predict if an offer will be colpleted and and I treid to build a classification model to predict the offer type.
 
 ## Installations
 - Download .rar-file from data directory
@@ -37,6 +38,7 @@ This project uses demographic, transaction and offer data to find demographic gr
 
 ## Summary
 For getting an overall good response for offers I would recommend to give offers to female members older than 50 years, who are longer a part of the starbucks community. The income should be higher than 70,000 USD a year. For the offer type I think it does not matter if it is the bogo or the discount offer but the discount offer is completed slightly better than the bogo offer.
+The prediction of the completion works with an accuracy of about 75%, whereas the prediction of the class only works with an accuracy of about 39 %.
 
 ## Licensing, Authors, Acknowledgement
 This analysis was made by me, an Udacity student with the data provided by Udacity
